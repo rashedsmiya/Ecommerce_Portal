@@ -42,14 +42,23 @@
 
     <section class="my-5">
         <div class="container">
-            <h1 class="mb-3">Top Deals</h1>
-            <div class="row theme-product">
 
+            <div class="d-flex">
+                <div class="flex-grow-1">
+                    <h2 class="mb-3">Top Deals</h2>
+                </div>
+                <div class="#">
+                    <a href="#" class="btn theme-green-btn text-light btn-sm">View All</a>
+                </div>
+            </div>
+            <div class="row theme-product">
                 <div class="col-lg-3">
                     <div class="card">
-                        <img src="{{ asset('assets/images/products/1.jpg') }}" class="card-img-top" alt="">
+                        <a href="#"></a><img src="{{ asset('assets/images/products/1.jpg') }}" class="card-img-top"
+                            alt=""></a>
                         <div class="card-body">
-                            <h6 class="card-title text-center">Campus Shoes</h6>
+                            <h6 class="card-title text-center"><a href="#"
+                                    class="text-dark text-decoration-none">Campus Shoes</a> </h6>
                             <h5 class="card-title text-center">₹ 4,99.00</h5>
                         </div>
                     </div>
@@ -57,9 +66,12 @@
 
                 <div class="col-lg-3">
                     <div class="card">
-                        <img src="{{ asset('assets/images/products/2.jpg') }}" class="card-img-top" alt="">
+                        <a href="#"> <img src="{{ asset('assets/images/products/2.jpg') }}" class="card-img-top"
+                                alt="">
+                        </a>
                         <div class="card-body">
-                            <h6 class="card-title text-center">Apple Watch</h6>
+                            <h6 class="card-title text-center"><a href="#"
+                                    class="text-dark text-decoration-none">Apple Watch</a></h6>
                             <h4 class="card-title text-center">₹ 14,99.00</h4>
                         </div>
                     </div>
@@ -67,9 +79,11 @@
 
                 <div class="col-lg-3">
                     <div class="card">
-                        <img src="{{ asset('assets/images/products/3.jpg') }}" class="card-img-top" alt="">
+                        <a href="#"><img src="{{ asset('assets/images/products/3.jpg') }}" class="card-img-top"
+                                alt=""></a>
                         <div class="card-body">
-                            <h6 class="card-title text-center">Nick cap </h6>
+                            <h6 class="card-title text-center"><a href="#" class="text-dark text-decoration-none">Nick
+                                    cap</a></h6>
                             <h5 class="card-title text-center">₹ 7,99.00</h5>
                         </div>
                     </div>
@@ -77,9 +91,11 @@
 
                 <div class="col-lg-3">
                     <div class="card">
-                        <img src="{{ asset('assets/images/products/4.jpg') }}" class="card-img-top" alt="">
+                        <a href="#"><img src="{{ asset('assets/images/products/4.jpg') }}" class="card-img-top"
+                                alt=""></a>
                         <div class="card-body">
-                            <h6 class="card-title text-center">Chair</h6>
+                            <h6 class="card-title text-center"><a href="#" class="text-dark text-decoration-none">
+                                    Wooden Chair</a></h6>
                             <h5 class="card-title text-center">₹ 14,99.00</h5>
                         </div>
                     </div>
