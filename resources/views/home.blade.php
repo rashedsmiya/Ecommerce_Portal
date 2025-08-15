@@ -103,6 +103,7 @@
             </div>
         </div>
     </section>
+<<<<<<< HEAD
 
     {{-- Recently Viewed  --}}
     <section class="my-5">
@@ -168,4 +169,6 @@
             </div>
         </div>
     </section>
+=======
+>>>>>>> cf4984042543eb54d6ea643bfdc9d77bad74cc30
 @endsection
