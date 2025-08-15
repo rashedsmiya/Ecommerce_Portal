@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Roboto:wght@400;500;700&display=swap');
+
+body{
+font-family: 'lato', sans-serif;
+}
+
+.theme-navbar{
+background-color: #0066cc;
+}
+
+.theme-orange-btn{
+ background-color: #ff6600;
+
+}
+
+.theme-orange-btn:hover{
+ background-color: #ff6600;
+ opacity: 0.9 !important;
+}
+
+.theme-green-btn{
+ background-color: #28A745;
+}
+
+.theme-green-btn:hover{
+ background-color: #28A745;
+ opacity: 0.9 !important;;
+}
+
+.theme-footer{
+background-color: #0066cc;
+
+}
+
+.theme-navbar-light{
+background-color: #b7dbff;
+}
+
+.theme-product img:hover{
+transform: scaleX(-1);
+}
