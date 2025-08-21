@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class ProductdetailsController extends Controller
 {
-    public function detail($slug)
+    public function details($slug)
     {
         return view('product-details');
     }

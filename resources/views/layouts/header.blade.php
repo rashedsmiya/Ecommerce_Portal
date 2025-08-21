@@ -58,7 +58,7 @@
             <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                 <ul class="nav">
                     <li class="nav-item">
-                        <a class="nav-link active text-dark" href="{{ url('category/electronics') }}">Mobile</a>
+                        <a class="nav-link active text-dark" href="{{ url('category/category1/1') }}">Mobile</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active text-dark" href="#">Fashion</a>

@@ -2,6 +2,7 @@
 @push('title')
     <title>Home Page</title>
 @endpush
+
 @section('content')
     <div id="carouselExampleIndicators" class="carousel slide">
         <div class="carousel-indicators">
@@ -303,5 +304,4 @@
             </div>
         </div>
     </section>
-
 @endsection
