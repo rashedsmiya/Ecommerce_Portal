@@ -41,7 +41,7 @@
             </div>
             <div>
                 <a href="#" class="text-decoration-none text-light">Became a Seller</a>
-                <a href="#" class="btn theme-green-btn btn-sm text-light"><i
+                <a href="{{ url('cart-list/product') }}" class="btn theme-green-btn btn-sm text-light"><i
                         class="fa-solid fa-cart-shopping"></i>
                     Cart</a>
                 <a href="#" class="btn theme-orange-btn btn-sm text-light"><i class="fa-solid fa-user"></i>

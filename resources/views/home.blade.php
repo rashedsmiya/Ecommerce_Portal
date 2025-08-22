@@ -51,7 +51,7 @@
                     <h2 class="mb-3">Top Deals</h2>
                 </div>
                 <div class="#">
-                    <a href="#" class="btn theme-green-btn text-light btn-sm">View All</a>
+                    <a href="#" class="btn theme-green-btn text-light btn-sm rounded-pill">View All</a>
                 </div>
             </div>
             <div class="row theme-product">
@@ -116,7 +116,7 @@
                     <h2 class="mb-3">Popular Category</h2>
                 </div>
                 <div class="#">
-                    <a href="#" class="btn theme-green-btn text-light btn-sm">View All</a>
+                    <a href="#" class="btn theme-green-btn text-light btn-sm rounded-pill">View All</a>
                 </div>
             </div>
             <div class="row theme-product">
@@ -182,7 +182,7 @@
                     <h2 class="mb-3">Recently Viewed</h2>
                 </div>
                 <div class="#">
-                    <a href="#" class="btn theme-orange-btn text-light btn-sm">View All</a>
+                    <a href="#" class="btn theme-orange-btn text-light btn-sm rounded-pill">View All</a>
                 </div>
             </div>
             <div class="row theme-product">
@@ -248,7 +248,7 @@
                     <h2 class="mb-3">Best of Electronics</h2>
                 </div>
                 <div class="#">
-                    <a href="#" class="btn theme-green-btn text-light btn-sm">View All</a>
+                    <a href="#" class="btn theme-green-btn text-light btn-sm rounded-pill">View All</a>
                 </div>
             </div>
             <div class="row theme-product">
