@@ -21,7 +21,7 @@
                             <h6 class="card-title text-center"><a href="{{ url('category/electronics/tv/details') }}"
                                     class="text-dark text-decoration-none">Sony
                                     LED</a>
-                        </h6>
+                            </h6>
                             <h5 class="card-title text-center">₹ 4,99.00</h5>
                         </div>
                     </div>
@@ -128,7 +128,6 @@
                                     LED</a>
                             </h6>
                             <h5 class="card-title text-center">₹ 4,99.00</h5>
-
                         </div>
                     </div>
                 </div>

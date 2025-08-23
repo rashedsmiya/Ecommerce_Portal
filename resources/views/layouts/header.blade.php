@@ -53,8 +53,6 @@
     {{-- Category Nav --}}
     <nav class="navbar navbar-expand-lg theme-navbar-light">
         <div class="container-fluid">
-
-
             <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                 <ul class="nav">
                     <li class="nav-item">
