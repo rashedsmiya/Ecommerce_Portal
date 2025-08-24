@@ -44,7 +44,8 @@
                 <a href="{{ url('cart-list/product') }}" class="btn theme-green-btn btn-sm text-light"><i
                         class="fa-solid fa-cart-shopping"></i>
                     Cart</a>
-                <a href="#" class="btn theme-orange-btn btn-sm text-light"><i class="fa-solid fa-user"></i>
+                <a href="{{ url('login') }}" class="btn theme-orange-btn btn-sm text-light ms-2 rounded-pill px-3 py-2"><i
+                        class="fa-solid fa-user"></i>
                     Login</a>
             </div>
         </div>
